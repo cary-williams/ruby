@@ -16,5 +16,3 @@ def caesar(input,shift)
   puts cipher.join
 
 end
-
-caesar("What a string!",5)
