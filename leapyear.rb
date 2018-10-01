@@ -1,3 +1,6 @@
+#!/usr/bin/env ruby
+# From a range of years specified, outputs each year that is also a leap year. 
+
 puts "Enter starting year"
 s_year = gets.chomp.to_i
 
